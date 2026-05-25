@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "hammer-inspect (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "hammer-inspect (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
