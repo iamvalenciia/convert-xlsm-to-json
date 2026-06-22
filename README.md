@@ -1,12 +1,12 @@
-## hammer-inspect
+## XLSM TO JSON
 
-Hammer Inspect is a high-performance JSON viewer, search engine, and workflow debugger designed for complex Excel-derived (`.xlsm`) configuration files. It transforms raw spreadsheet data into structured JSON, allowing developers and analysts to inspect, search, copy, and analyze workflows with significantly more clarity and speed than traditional Excel tools.
+high-performance JSON viewer, search engine, and workflow debugger designed for complex Excel-derived (`.xlsm`) configuration files. It transforms raw spreadsheet data into structured JSON, allowing developers and analysts to inspect, search, copy, and analyze workflows with significantly more clarity and speed than traditional Excel tools.
 
 ---
 
 ## Download for Windows
 
-- [Download Hammer Inspect v1.0.0 (Windows x64)](https://github.com/iamvalenciia/hammer-inspect/releases/download/v1.0.0/hammer-inspect.exe)
+- [XLSM TO JSON Inspect v1.0.0 (Windows x64)](https://github.com/iamvalenciia/hammer-inspect/releases/download/v1.0.0/hammer-inspect.exe)
 - [GitHub Releases Page](https://github.com/iamvalenciia/hammer-inspect/releases)
 
 ---
@@ -24,7 +24,7 @@ Hammer Inspect is a high-performance JSON viewer, search engine, and workflow de
 
 ## High-Impact PLINQ Search Engine
 
-Hammer Inspect solves one of the biggest limitations of Excel-based workflow debugging: slow and unreliable searches over massive datasets containing hidden formatting characters, multiline values, arrays, and embedded logic.
+XLSM TO JSON solves one of the biggest limitations of Excel-based workflow debugging: slow and unreliable searches over massive datasets containing hidden formatting characters, multiline values, arrays, and embedded logic.
 
 Instead of relying on Excel’s cell rendering layer, Hammer Inspect preprocesses workbook data into normalized JSON structures and executes searches directly against raw semantic values. The search engine is powered by **Parallel LINQ (PLINQ)**, which distributes query execution across multiple CPU threads simultaneously.
 
