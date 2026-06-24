@@ -1,6 +1,6 @@
 ## XLSM TO JSON
 
-high-performance JSON viewer, search engine, and workflow debugger designed for complex Excel-derived (`.xlsm`) configuration files. It transforms raw spreadsheet data into structured JSON, allowing developers and analysts to inspect, search, copy, and analyze workflows with significantly more clarity and speed than traditional Excel tools.
+Converts complex Excel configurations into context-aware JSON. Engineered to preserve row-to-header relationships for accurate LLM/AI analysis and ultra-fast debugging. 
 
 ---
 
